@@ -1,10 +1,3 @@
----
-title: "Exploratory data analysis"
-author: "Rakesh Tiwari"
-date: "January 8, 2016"
-output: html_document
----
-
 ##Introduction
 
 This assignment uses data from
